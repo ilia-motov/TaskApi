@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+TestResults/
+*.user
+PROJECT_WALKTHROUGH.md
